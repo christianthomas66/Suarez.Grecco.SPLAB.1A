@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1606306930 source:c:\users\thomas pc\onedrive\desktop\2do parcial bicicletas\2do parcial bicicletas\utn.c
+	"utn.h"
+
+1606306927 c:\users\thomas pc\onedrive\desktop\2do parcial bicicletas\2do parcial bicicletas\utn.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1606313615 source:c:\users\thomas pc\onedrive\desktop\2do parcial bicicletas\2do parcial bicicletas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"Bicicletas.h"
+	"parser.h"
+
+1606313527 c:\users\thomas pc\onedrive\desktop\2do parcial bicicletas\2do parcial bicicletas\linkedlist.h
+
+1606312530 c:\users\thomas pc\onedrive\desktop\2do parcial bicicletas\2do parcial bicicletas\bicicletas.h
+
+1606310726 c:\users\thomas pc\onedrive\desktop\2do parcial bicicletas\2do parcial bicicletas\parser.h
+
+1606312738 source:c:\users\thomas pc\onedrive\desktop\2do parcial bicicletas\2do parcial bicicletas\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Bicicletas.h"
+
+1606313781 source:c:\users\thomas pc\onedrive\desktop\2do parcial bicicletas\2do parcial bicicletas\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bicicletas.h"
+
+1606312530 source:c:\users\thomas pc\onedrive\desktop\2do parcial bicicletas\2do parcial bicicletas\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicletas.h"
+	"parser.h"
+
